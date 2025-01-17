@@ -1,2 +1,2 @@
-# i-love-you
+# i-love-coding
 this is my first github project
